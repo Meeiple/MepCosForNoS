@@ -1,0 +1,1605 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "d8d928edc09cdb71e43f0c6805102a09",
+				"Address" : "bLDnNM2_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "647d5a47978ea4e2f39c1d91bb830084",
+				"Address" : "bLDnNM2_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "946415a9359190909e904adb18821f12",
+				"Address" : "bLDnNM2_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "946415a9359190909e904adb18821f12",
+				"Address" : "bLDnNM2_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Alien",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "396f2fca55a3344ff8172278c6c65159",
+				"Address" : "E4sk9T3bc_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "85a51c3d68164a95dd9abff15416161f",
+				"Address" : "E4sk9T3bc_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "cc5ac71a17f72a2b7474a8801f47d9eb",
+				"Address" : "E4sk9T3bc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Berserker",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"OnButton" : {
+				"Name" : "BerserkerRumpage",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "081ec94d43bc758b7a002c2b0ed6f156",
+				"Address" : "ZNVu4bC7_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "aaccfd7c3831523df7f9a994fac4b035",
+				"Address" : "ZNVu4bC7_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "BerserkerRumpage",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"IsHidden" : true,
+			"OnButton" : {
+				"Name" : "Berserker",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "a648d5f3e5f882c9676ab70f90c09bbb",
+				"Address" : "piYegPtn_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "4dbaa63d24f7ca16d7d9341c290fa06d",
+				"Address" : "piYegPtn_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Bounty_Hunter",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "4bf58caa0f4389dffc8a899599afddeb",
+				"Address" : "JBtpRP6o_Main.png",
+				"ExIsFront" : false,
+				"Length" : 6
+			},
+			"Move" : {
+				"Hash" : "6b0be513235530a0898110b1effebb18",
+				"Address" : "JBtpRP6o_Move.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "b77f7c2a60aca06b53e014eef06bb464",
+				"Address" : "JBtpRP6o_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 8,
+			"Name" : "Bubble_Gun",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "6a6c05593f4517bd6e6d003ada86dfb4",
+				"Address" : "ObTkUo4wc_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "e2cf429f2b3ec6c751a312a451aab096",
+				"Address" : "ObTkUo4wc_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "d5a7849b03d4747899e7ee154719c369",
+				"Address" : "ObTkUo4wc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Camouflager",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "ed8164c83df6b4701d005e0239bca7ed",
+				"Address" : "bl8Z5En8b_Main.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "35b2ee781d366a1b7dbf09187315821e",
+				"Address" : "bl8Z5En8b_Move.png",
+				"ExIsFront" : false,
+				"Length" : 8
+			},
+			"Climb" : {
+				"Hash" : "b48506b2d66a146ceecb298623b5a88e",
+				"Address" : "bl8Z5En8b_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 10,
+			"Name" : "Cannon",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "88935491ba93ca9a59898ee22a892b02",
+				"Address" : "8ntmnVRcc_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "9852134f1ff5f97e9911da70a18f2384",
+				"Address" : "8ntmnVRcc_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "130e96c9f560da08886dc224fb477959",
+				"Address" : "8ntmnVRcc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Cleaner",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "d119eb238abb862d9ef2f1fbafed3935",
+				"Address" : "5l88bIGec_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "ab5df565441a013570b1588f847d4527",
+				"Address" : "5l88bIGec_Back.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Damned",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "584adbf624b56d2e8125f0a815284325",
+				"Address" : "bpZRC2Rgb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f8f1e70745ef2960888ca5248ace5bba",
+				"Address" : "bpZRC2Rgb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Destroyer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "7a07e8c1804c97833f0a2278d73815ca",
+				"Address" : "P9MagLbj_Main.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Back" : {
+				"Hash" : "57e9231b9eb111aa75ef644de526d594",
+				"Address" : "P9MagLbj_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "19dab7d99d777c5a62e9a1608e76559c",
+				"Address" : "P9MagLbj_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 12,
+			"Name" : "Disturber",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "1c48619fa7da7a956b3bc89d371d32a6",
+				"Address" : "thumhPGp_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "c3c59aaeb2ee593c8ae1d3ae1a4bc11b",
+				"Address" : "thumhPGp_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Effacer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "adde06fb61c1d646654561e6d283fd04",
+				"Address" : "FTvLcr42b_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "50e539a94f6290c9e3ba6a0b527945cb",
+				"Address" : "FTvLcr42b_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Evil_Tracker",
+			"Author" : "",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "cbdbd65db3982379cfd5d4b32a6f6839",
+				"Address" : "GehrZC8_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "247aa14144a207c7bb0d7cd798338c63",
+				"Address" : "GehrZC8_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "9f1feb12a422dae0607c6ab1fea34572",
+				"Address" : "GehrZC8_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "9f1feb12a422dae0607c6ab1fea34572",
+				"Address" : "GehrZC8_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Hadar",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "f6d6bcc67b3299d48c7d840398845146",
+				"Address" : "8wtWJQfRb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "55a777b8e359b14e70e797b6f9406d55",
+				"Address" : "8wtWJQfRb_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "d753dffa239f6b550ef50c2168a52c67",
+				"Address" : "8wtWJQfRb_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "d753dffa239f6b550ef50c2168a52c67",
+				"Address" : "8wtWJQfRb_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Illusioner",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "d920cd2a43614862455ff140c3524a30",
+				"Address" : "oJcMPOGp_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "744265c3d7db75d5e06d0d98191c8b0f",
+				"Address" : "oJcMPOGp_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Jailer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "faff708f66038f07ae693b8f4426d920",
+				"Address" : "ZPt72cx1b_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "41f8a0a8293886e78fdedb53f38ecc3e",
+				"Address" : "ZPt72cx1b_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "00a127b0c9d6cc16043d9820b331cd48",
+				"Address" : "ZPt72cx1b_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Marionette",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "41fd43abf9ee8d16325870b9883dd7a0",
+				"Address" : "32LsLGQAc_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "55a777b8e359b14e70e797b6f9406d55",
+				"Address" : "32LsLGQAc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Morphling",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "0ffadf62997c1672e0a2a159b2769a18",
+				"Address" : "fkVHNbfJ_Main.png",
+				"ExHash" : "115e0bd56001fe85ef605b4a1f6f7dbc",
+				"ExAddress" : "fkVHNbfJ_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "7116377ea7c20e3ef7333af037270530",
+				"Address" : "fkVHNbfJ_Climb.png",
+				"ExHash" : "8c0c647811a25d58c28a922ffd9698c6",
+				"ExAddress" : "fkVHNbfJ_Move.png",
+				"ExIsFront" : true
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Painter",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "ad09b564d56105d19f34e693369def06",
+				"Address" : "0kMXve9db_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "69200b75be9b24228a92eaff63dfa067",
+				"Address" : "0kMXve9db_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "17c76094f0fd8ff6d1e9849a19c9943e",
+				"Address" : "0kMXve9db_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Raider",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "2a2c537c54c84440aaf46fda6320c170",
+				"Address" : "M1Roizceb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "cd390a87a06ebafdbcb6b78dbc67f8cb",
+				"Address" : "M1Roizceb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : true,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Reaper",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "22b60475d2327266520a88e33a4e6525",
+				"Address" : "EdneEaDkb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "ed1979259e5a733cc291abf3dd5fcece",
+				"Address" : "EdneEaDkb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Sniper",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "efae473aca2a87623d138394247118eb",
+				"Address" : "AVmD3qODb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f1734e7e939923614ebb49eeacff04d2",
+				"Address" : "AVmD3qODb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Starrer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "8eaf5337d32651a81fdbe3568860011d",
+				"Address" : "yka3jQX8b_Main.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "b297096f9e4240fc65baacb8f6bd5cc8",
+				"Address" : "yka3jQX8b_Move.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Salifer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "da73817929cfa2916ec580a72a553e3e",
+				"Address" : "yxqdWDdVb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "b356ecfd14e090b8bc7744586e731d2c",
+				"Address" : "yxqdWDdVb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Arsonist",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "ca79d54c935afde3a6ea9de994bd4387",
+				"Address" : "yErBfzVE_Main.png",
+				"ExHash" : "898d69a7b6053ad0d27aae7d6390f767",
+				"ExAddress" : "yErBfzVE_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f4a72a7e82689412eac17d0c90e0919d",
+				"Address" : "yErBfzVE_Climb.png",
+				"ExHash" : "5be5f88ccfcde383f392fbd613df3402",
+				"ExAddress" : "yErBfzVE_Move.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Avenger",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "861c171b8e86ea0ecdf6e1936a47f786",
+				"Address" : "Up1M6haW_Main.png",
+				"ExHash" : "581dbbdbd5f5d8863d8953df95c8bfd4",
+				"ExAddress" : "Up1M6haW_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "75339b8075246debc88e2a77a82d4e2b",
+				"Address" : "Up1M6haW_Climb.png",
+				"ExHash" : "e8c3aabe41cdde9e8958c57a3eb34777",
+				"ExAddress" : "Up1M6haW_Move.png",
+				"ExIsFront" : true
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Chainshifter",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "4be82c04159d4b6626d61ba9578b90ff",
+				"Address" : "JtpSiIGec_Main.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Climb" : {
+				"Hash" : "6318cbd952beff1a7e7704ed4fea5c4a",
+				"Address" : "JtpSiIGec_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 4,
+			"Name" : "Dancer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"OnButton" : {
+				"Name" : "DancerButton",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "fc9bc8862f8bc371778322b0f1e02a90",
+				"Address" : "JtpSiIGec_Move.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "6318cbd952beff1a7e7704ed4fea5c4a",
+				"Address" : "JtpSiIGec_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "DancerButton",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"IsHidden" : true,
+			"OnButton" : {
+				"Name" : "Dancer",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "7579d5bce266b088e73d33a13c69d129",
+				"Address" : "PhepaOGp_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "bae09e54cc8bd2178784ba113b7f393c",
+				"Address" : "PhepaOGp_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "04bb7497a132f67f96a9b2de6d5fdad2",
+				"Address" : "PhepaOGp_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Jackal",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "73460b54a28ce280ce270bf44f7dfde9",
+				"Address" : "lfcrp8Ck_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "4cc5b7de07de25fb138596825e41b704",
+				"Address" : "lfcrp8Ck_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "04bb7497a132f67f96a9b2de6d5fdad2",
+				"Address" : "lfcrp8Ck_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Sidekick",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"OnButton" : {
+				"Name" : "Sidekick_Promise",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "91c659b3f9a010d49622ccbd62cdb58e",
+				"Address" : "mYJdvMuWb_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "5749e99e00f9dbe3f0e542b12502f897",
+				"Address" : "mYJdvMuWb_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "04bb7497a132f67f96a9b2de6d5fdad2",
+				"Address" : "mYJdvMuWb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Sidekick_Promise",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"IsHidden" : true,
+			"OnButton" : {
+				"Name" : "Sidekick",
+				"Author" : "Meiple"
+			}
+		},
+		{
+			"Main" : {
+				"Hash" : "b2fef96cb00f2ae209b669b63c72ba32",
+				"Address" : "e9MdCbKp_Main.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Climb" : {
+				"Hash" : "6b5250165ba7b3fc8e0670ee98a2f47f",
+				"Address" : "e9MdCbKp_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 8,
+			"Name" : "Jester",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "a5b1625d678579d6aba10ed5ed246539",
+				"Address" : "MpXntAS3b_Main.png",
+				"ExHash" : "82b255049c4d305a0f363bcf0282a049",
+				"ExAddress" : "MpXntAS3b_Move.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "196a5ab65bcb7edeb9c3c9be22115052",
+				"Address" : "MpXntAS3b_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Paparazzo",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "f7099e0a0b565261d6bcdf88d0801a01",
+				"Address" : "k4CTEKqlc_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "fd8b619ce588b3562850979ee657ee70",
+				"Address" : "k4CTEKqlc_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "ea07296022473bd28edc7cfa6fc29b96",
+				"Address" : "k4CTEKqlc_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "ea07296022473bd28edc7cfa6fc29b96",
+				"Address" : "k4CTEKqlc_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Scarlet",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "77ae84505319b3d80bd1c947fd912cdb",
+				"Address" : "XFuwdyDeb_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "082439bf5e230cd041599677f3af46d3",
+				"Address" : "XFuwdyDeb_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "ecb311171b4b3e55b953a8144c93351d",
+				"Address" : "XFuwdyDeb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Spectre",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "2b5f4768f2c3f1690fb7523bdbf43995",
+				"Address" : "vZAI1IXw_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "494b3778dfa5d4dce18ceede04bab211",
+				"Address" : "vZAI1IXw_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f585286a026c21f5b7985f3670be6082",
+				"Address" : "vZAI1IXw_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Spectre_Follower",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "4c98b18a93cde431cc452b60a925a73a",
+				"Address" : "PTwPtIvz_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "cf365cec2b8dfd5a9a11eaf1b3028f1b",
+				"Address" : "PTwPtIvz_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "b850f0b64e40321cb78d18b78de0b165",
+				"Address" : "PTwPtIvz_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Immoralist",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "13db8ae0367b606b303ff32cedc8b83c",
+				"Address" : "jUJjJE6I_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "fad8c97898fb32c9631f2fb306ac9439",
+				"Address" : "jUJjJE6I_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Vulture",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "a88cd338dfcfe98fcec343c5eb9c4237",
+				"Address" : "FThReM2_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "424baa11f226c2480b75b6b30ad3a27a",
+				"Address" : "FThReM2_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Agent",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "303f33d054c668625aae695d2891750a",
+				"Address" : "cGHvwh_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "8ea162fd7fa996d8c5531ca505a8a426",
+				"Address" : "cGHvwh_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "8ea162fd7fa996d8c5531ca505a8a426",
+				"Address" : "cGHvwh_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Bait",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "ff909a456453f88aafbee60fb5b78a72",
+				"Address" : "w0WnMml2b_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f745f8c45a01fcb8074d58c92d8f9ec9",
+				"Address" : "w0WnMml2b_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "2ac48dd0cdb2e17c82f8a718e102c9e6",
+				"Address" : "w0WnMml2b_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "2ac48dd0cdb2e17c82f8a718e102c9e6",
+				"Address" : "w0WnMml2b_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Busker",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "09eae061b62616d55ab440ae067d39a4",
+				"Address" : "nrxcjiUw_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "f7b3f93ca07dad934a55924febe1408e",
+				"Address" : "nrxcjiUw_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Collator",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "079bbd80d55cff3626363fd9c60be217",
+				"Address" : "WyKOXs4_Main.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "4f2346f41ba53234fec5b3bffdabf8a4",
+				"Address" : "WyKOXs4_Move.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Climb" : {
+				"Hash" : "15d824e7a2e50a77fa7552373469eb9e",
+				"Address" : "WyKOXs4_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 16,
+			"Name" : "Comet",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "a1f0dd099df149f703b02941f56a3431",
+				"Address" : "lHbdVpSec_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "9a7c3f3d2a318fa0ed91285cc64b3d61",
+				"Address" : "lHbdVpSec_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Doctor",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "2aaffbcad923074984edd62c72261f04",
+				"Address" : "BDydRh_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "476b298b68fd63afbebbbc99e8adec92",
+				"Address" : "BDydRh_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "2530c593500b16c1b843114c55374e91",
+				"Address" : "BDydRh_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Echo",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "bfca41cf8e92a291b35caca0ce05b927",
+				"Address" : "g9XF7FBN_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "ac25d8762e884a1db32230337989bbf5",
+				"Address" : "g9XF7FBN_Climb.png",
+				"ExIsFront" : false
+			},
+			"EnterVent" : {
+				"Hash" : "71bb362862e59eb96de897ff68e9c6d3",
+				"Address" : "g9XF7FBN_EnterVent.png",
+				"ExIsFront" : false
+			},
+			"ExitVent" : {
+				"Hash" : "71bb362862e59eb96de897ff68e9c6d3",
+				"Address" : "g9XF7FBN_ExitVent.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Investigator",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "2bfd8db4acfe97b498bd2d44e4653e65",
+				"Address" : "Ah4Qvfjy_Main.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "983bba76865c3371623a46090f7526fb",
+				"Address" : "Ah4Qvfjy_Move.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "6d4cf6e334f605e9e52da08927751fdf",
+				"Address" : "Ah4Qvfjy_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Jekyll_&_Hyde",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "1c6c609222e1cb817e5f541b556bccf3",
+				"Address" : "CVHdci_Main.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "2600e437a19588b4867775cc199ae414",
+				"Address" : "CVHdci_Move.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "0f13f31f1219cb61dab1442f7a63a1fc",
+				"Address" : "CVHdci_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Hyde",
+			"Author" : "",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "54267e6f6a1d6008e3c2647a0c84beba",
+				"Address" : "EgUemv0mc_Main.png",
+				"ExHash" : "e13908d19faa7b40bb7b398b83251dc4",
+				"ExAddress" : "EgUemv0mc_Back.png",
+				"ExIsFront" : false
+			},
+			"Preview" : {
+				"Hash" : "821fb884e83dcff5209e0ac02744931e",
+				"Address" : "EgUemv0mc_Preview.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Justice",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "83bf3b57aeb314bf2ee5142b67a52d79",
+				"Address" : "anWOW2kKb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "beaced64028e1400135665e136f9437e",
+				"Address" : "anWOW2kKb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Madmate",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "6a80cecea901bb183228e546e5ea595e",
+				"Address" : "MZ4ZzOcb_Main.png",
+				"ExIsFront" : false,
+				"Length" : 6
+			},
+			"Climb" : {
+				"Hash" : "e85abd40172367cd0db26083283250a3",
+				"Address" : "MZ4ZzOcb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 6,
+			"Name" : "Mayor",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "e95f1dad7bd37df625bbb94100e5da98",
+				"Address" : "GL3NuEdb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "cb1ff8d0571d79927665f7844c11be6d",
+				"Address" : "GL3NuEdb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Navvy",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "1007196f4c38960f2d507bba069364b2",
+				"Address" : "pr9D1Ez6_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "e31c70925bf2000d5cdbca37abc80fae",
+				"Address" : "pr9D1Ez6_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "00f10af40c140ba80587aead2c61074a",
+				"Address" : "pr9D1Ez6_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Necromancer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "5a85ed7c5c43b20b0472f5f5a8d0321a",
+				"Address" : "fY774C8W_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "888fd68c06c13bbbb3deec33b3cc670b",
+				"Address" : "fY774C8W_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Guesser",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "c24e1ae05ee09b9ffdfc7cb26f1b1f61",
+				"Address" : "hw4y4zRh_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "0cb984c458161b3475f449470650f51b",
+				"Address" : "hw4y4zRh_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Trapper",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "143889c334036327355a88cf6567854c",
+				"Address" : "pA1cO4Nwc_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "7eafec10433e39b33f5c085a2665b17b",
+				"Address" : "pA1cO4Nwc_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "1a7b3e45987d74b1586e7dd056c8e147",
+				"Address" : "pA1cO4Nwc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : true,
+			"Adaptive" : true,
+			"HideHands" : true,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Noisemaker",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "a772c8daebfbf6ea93d868277cced2a9",
+				"Address" : "LD98zisV_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "338adf0f24eefbc90496e98d2810a3a2",
+				"Address" : "LD98zisV_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "0d7108115a6cd7e5d448d1af0c1cc0c5",
+				"Address" : "LD98zisV_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Oracle",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "9c551bf90eb85ce8ee1197300ed5528b",
+				"Address" : "AkEloMY4_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "bbaa28d488620f8665caa016ada0dfb0",
+				"Address" : "AkEloMY4_Back.png",
+				"ExIsFront" : false
+			},
+			"Move" : {
+				"Hash" : "9c9659eea3a29dba93a9777bb30a8dad",
+				"Address" : "AkEloMY4_Move.png",
+				"ExIsFront" : false,
+				"Length" : 8
+			},
+			"Climb" : {
+				"Hash" : "07fa20527ebaf384948ae73b5666eb35",
+				"Address" : "AkEloMY4_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 6,
+			"Name" : "Phosphorus",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "e7ad8ff08ffb1afcf73831dc0f79f5fb",
+				"Address" : "QJSDOFjE_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "54f16d677efc2981135344182f633f30",
+				"Address" : "QJSDOFjE_Back.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Climb" : {
+				"Hash" : "94e55487e2a8661490d6cb424cc61a72",
+				"Address" : "QJSDOFjE_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 8,
+			"Name" : "Provocateur",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "f70aa41b708ed4c6beb86d0bf2c96ee2",
+				"Address" : "RA5Z1uZyc_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "26953e8a53b39589484bc82454f1e320",
+				"Address" : "RA5Z1uZyc_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Psychic",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "9b37a8e1325d864cc11b8e3af57af1ba",
+				"Address" : "ZAaKpj_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "8f495d7845458f4ac38569905f92fb19",
+				"Address" : "ZAaKpj_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Seer",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "a7d91a1c2e0f1219c366b7dd93efcf8c",
+				"Address" : "GHDrcabq_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "3fc35a57e9079366340456e8baee1682",
+				"Address" : "GHDrcabq_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "Sheriff",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		},
+		{
+			"Main" : {
+				"Hash" : "18746ac04883284c63bcd67c489bca2a",
+				"Address" : "8zYe645N_Main.png",
+				"ExIsFront" : false,
+				"Length" : 4
+			},
+			"Back" : {
+				"Hash" : "ccc9d323a3fb356a86a3571c537e295a",
+				"Address" : "8zYe645N_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "43ff16bb1639d5c0a38b25d391e2b074",
+				"Address" : "8zYe645N_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 16,
+			"Name" : "Ubiquitous",
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm"
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "nMeipNoCosm",
+			"Format" : "Meiple Cosmetics",
+			"Priority" : 1
+		}
+	]
+}
