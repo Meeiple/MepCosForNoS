@@ -2666,8 +2666,8 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9c551bf90eb85ce8ee1197300ed5528b",
-				"Address" : "AkEloMY4_Main.png",
+				"Hash" : "f8b23d85d3ee84645432aa7a5c9058e6",
+				"Address" : "gVQFDm_Main.png",
 				"ExIsFront" : false
 			},
 			"Back" : {
@@ -2686,19 +2686,16 @@
 				"Address" : "AkEloMY4_Climb.png",
 				"ExIsFront" : false
 			},
-            "SeekerAlternative" : {
-                "Author" : "Meiple",
-                "Name" : "Phosphorus_Se"
-            },
 			"Bounce" : false,
 			"Adaptive" : false,
 			"HideHands" : false,
 			"IsSkinny" : false,
 			"SeekerCostume" : true,
 			"FPS" : 6,
-			"Name" : "Phosphorus",
+			"Name" : "Phosphorus_Se",
 			"Author" : "Meiple",
-			"Package" : "nMeipNoCosm"
+			"Package" : "nMeipNoCosm",
+			"IsHidden": true
 		},
 		{
 			"Main" : {
