@@ -2126,7 +2126,11 @@
 			"FPS" : 1,
 			"Name" : "Jekyll_&_Hyde",
 			"Author" : "Meiple",
-			"Package" : "nMeipNoCosm"
+			"Package" : "nMeipNoCosm",
+			"OnButton" : {
+				"Name" : "Hyde",
+				"Author" : "Meiple"
+			}
 		},
 		{
 			"Main" : {
@@ -2155,8 +2159,12 @@
 			"SeekerCostume" : true,
 			"FPS" : 1,
 			"Name" : "Hyde",
-			"Author" : "",
-			"Package" : "nMeipNoCosm"
+			"Author" : "Meiple",
+			"Package" : "nMeipNoCosm",
+			"OnButton" : {
+				"Name" : "Jekyll_&_Hyde",
+				"Author" : "Meiple"
+			}
 		},
 		{
 			"Main" : {
